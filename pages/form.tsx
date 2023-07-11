@@ -25,7 +25,7 @@ const form = observer(() => {
     <div className="px-4 md:px-0">
       <div className="items-start justify-between md:flex mt-10 max-w-4xl mx-auto md:mt-20">
         <div>
-          <h3 className="text-gray-800 text-xl font-bold sm:text-2xl">Tasks Listing</h3>
+          <h3 className="text-gray-800 text-xl font-bold sm:text-2xl">Add Task</h3>
         </div>
         <div className="mt-3 md:mt-0">
           <Link href="/" className="inline-block px-4 py-2 text-white duration-150 font-medium bg-indigo-600 rounded-lg hover:bg-indigo-500 active:bg-indigo-700 md:text-sm shadow">
